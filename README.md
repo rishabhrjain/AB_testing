@@ -8,8 +8,8 @@ Using AB testing, we determine if the claim is true.
 
 Test setup: 
 
-Null hypothesis - The new version does not affec the conversion rate
-Alternative hypothesis - The new design is different (or can say better) than the original website. 
+Null hypothesis - The new version does not affect the conversion rate.  
+Alternative hypothesis - The new design is different (or can say better) than the original website.   
 
 Set alpha (significance value) = 0.5 , beta (Power) = 0.8. Lets say we want to see the improvements in conversion from 12% to 14%. This would be effect size.  
 
